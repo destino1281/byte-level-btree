@@ -11,7 +11,7 @@ Unlike typical textbook B-Tree implementations that store keys in lists or array
 - Implements bottom-up split propagation
 - Redistributes children during internal node splits
 
-This is closer to how database engines handle page-structured indexes.
+This is 30 to 40%  closer to how database engines handle page-structured indexes.
 
 ---
 
